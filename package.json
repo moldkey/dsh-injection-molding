@@ -1,0 +1,33 @@
+{
+  "name": "dsh-injection-molding",
+  "version": "0.1.0",
+  "description": "注塑件 DFM 与缩水率：壁厚/脱模角/筋厚规则、尺寸补偿",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "injection molding",
+    "注塑",
+    "dfm",
+    "mold"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-injection-molding.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
