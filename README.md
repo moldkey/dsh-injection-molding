@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-injection-molding.svg)](https://deepseekbase.com/plugins/dsh-injection-molding/)
 <p align="center"><strong>dsh-injection-molding — 注塑 DFM</strong></p>
 
 注塑件可制造性检查与缩水率补偿。
